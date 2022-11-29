@@ -1,0 +1,5 @@
+streamlit==1.15.0
+yfinance==0.1.87
+Pillow==9.3.0
+urllib3==1.26.9
+streamlit_option_menu==0.3.2
