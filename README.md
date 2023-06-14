@@ -1,2 +1,3 @@
-#All in One Financial Market Dashboard
-I created this website to show all the financial details of Stocks, Crypto & web3 market throughout the globe!
+<h1>Introducing FinDash: Your Global Financial Market Dashboard!</h1>
+
+**FinDash** is a cutting-edge project that provides a comprehensive financial market dashboard, allowing you to stay updated on global market data for companies and cryptocurrencies. With FinDash, you can effortlessly access real-time information, charts, and key metrics for any company or cryptocurrency of your choice. Whether you're a seasoned investor, a finance professional, or simply interested in the financial markets, FinDash empowers you with the insights you need to make informed decisions. Explore the world of finance with FinDash and gain a competitive edge in the dynamic global market landscape.
